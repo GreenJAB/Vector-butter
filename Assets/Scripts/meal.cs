@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class meal : MonoBehaviour
 {
+    public bool drinkPoison = false;
+    public bool foodPoison = false;
     // Start is called before the first frame update
     void Start()
     {
