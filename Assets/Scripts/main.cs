@@ -15,9 +15,34 @@ public class main : MonoBehaviour
     public int mealOn = 0;
     public float mealsX = 0;
     public bool canClick = true;
+
+
+    public Sprite[] sauces;
+    public Color[] drinks;
+
+    public bool[] poisonSauces;
+    public bool[] poisonDrinks;
     // Start is called before the first frame update
     void Start()
     {
+        poisonSauces = new bool[sauces.Length];
+        int poisonCount = 0;
+        for (int i = 0; i < poisonSauces.Length; i++) {
+            poisonSauces[i] = Random.Range(0f, 1f) < (2 - poisonCount) / (poisonSauces.Length - i + 0.0f);
+            if (poisonSauces[i]) poisonCount++;
+        }
+
+        poisonDrinks = new bool[drinks.Length];
+        poisonCount = 0;
+        for (int i = 0; i < poisonDrinks.Length; i++) {
+            poisonDrinks[i] = Random.Range(0f, 1f) < (2 - poisonCount) / (poisonDrinks.Length - i+0.0f);
+            if (poisonDrinks[i]) poisonCount++;
+        }
+
+
+
+
+
         int Length = 5;
         meallist = new meal[Length];
         for (int i = 0; i < Length; i++)
@@ -26,6 +51,7 @@ public class main : MonoBehaviour
             m.transform.SetParent(meals.transform, false);
             m.name = "Meal " + i;
             m.transform.localPosition += Vector3.right * 4 * i;
+
         }
     }
 
