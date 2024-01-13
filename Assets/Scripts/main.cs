@@ -8,6 +8,7 @@ public class main : MonoBehaviour
     public float Timer = 0;
     public bool listUp = false;
     private float listY = 2.5f;
+    public list listPrefab;
     public GameObject list;
     public GameObject meals;
     public meal[] meallist;
@@ -19,6 +20,9 @@ public class main : MonoBehaviour
 
     public Sprite[] sauces;
     public Color[] drinks;
+
+    public int numPoisonSauces = 2;
+    public int numPoisonDrinks = 2;
 
     public bool[] poisonSauces;
     public bool[] poisonDrinks;
@@ -40,9 +44,6 @@ public class main : MonoBehaviour
         }
 
 
-
-
-
         int Length = 5;
         meallist = new meal[Length];
         for (int i = 0; i < Length; i++)
@@ -51,8 +52,14 @@ public class main : MonoBehaviour
             m.transform.SetParent(meals.transform, false);
             m.name = "Meal " + i;
             m.transform.localPosition += Vector3.right * 4 * i;
-
         }
+
+
+        list l = Instantiate<list>(listPrefab);
+        l.name = "List";
+        list = GameObject.Find("List");
+
+
     }
 
     // Update is called once per frame
