@@ -451,6 +451,18 @@ MonoBehaviour:
   mealOn: 0
   mealsX: 0
   canClick: 1
+  sauces:
+  - {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  drinks:
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 1, g: 0.52990127, b: 0, a: 1}
+  - {r: 1, g: 0.9606118, b: 0, a: 1}
+  - {r: 1, g: 0, b: 0.49185848, a: 1}
+  poisonSauces: 
+  poisonDrinks: 
 --- !u!4 &419934745
 Transform:
   m_ObjectHideFlags: 0
