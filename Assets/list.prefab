@@ -109,7 +109,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 0.5660378, g: 0.5039705, b: 0.22694911, a: 1}
   m_FlipX: 0
@@ -135,6 +135,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Main: {fileID: 0}
   itemPrefab: {fileID: 3225834874488294676, guid: 6640d13d8bc2f3741a5ce6a2643b8536, type: 3}
+  showPoison: 0
 --- !u!1 &3586456065149800864
 GameObject:
   m_ObjectHideFlags: 0
@@ -332,7 +333,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 4
   m_TargetDisplay: 0
 --- !u!114 &7151227234815802590
 MonoBehaviour:

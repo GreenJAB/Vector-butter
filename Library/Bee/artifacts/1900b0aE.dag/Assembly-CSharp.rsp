@@ -416,6 +416,7 @@
 "Assets/Scripts/list.cs"
 "Assets/Scripts/main.cs"
 "Assets/Scripts/meal.cs"
+"Assets/Scripts/menu.cs"
 -langversion:9.0
 
 /deterministic
