@@ -29,6 +29,8 @@ public class main : MonoBehaviour
     public bool[] poisonDrinks;
 
     public int[] results;
+    public int[] lresults;
+    public int health = 5;
     public GameObject[] buttons;
 
     int day = 0;
@@ -37,6 +39,7 @@ public class main : MonoBehaviour
     {
         Length = 2;
         results = new int[4];
+        lresults = new int[4];
 
         nextDay();
     }
@@ -49,18 +52,30 @@ public class main : MonoBehaviour
         listY = Mathf.Min(Mathf.Max(listY, 0), 2.5f);
         list.transform.position = new Vector3(0,-listY,-0.5f);
 
-        mealsX += 0.5f * Time.deltaTime;
-        if (mealsX > mealOn) {
-            mealsX = mealOn;
-            if (mealOn < Length) enableButtons(listY!=2.5f? 1:2);
+        if (Timer < 60) { 
+            mealsX += 0.5f * Time.deltaTime;
+            if (mealsX > mealOn) {
+                mealsX = mealOn;
+                if (mealOn < Length) enableButtons(listY!=2.5f? 1:2);
+            }
+            meals.transform.position = new Vector3(mealsX * -4, 0, 0);
         }
-        meals.transform.position = new Vector3(mealsX * -4, 0, 0);
 
         Timer -= Time.deltaTime;
         if (Timer < 60) {
             black.SetActive(false);
+            GameObject.Find("Timer").GetComponent<TMPro.TextMeshProUGUI>().text = "Time Left: " + (int)Timer;
+        }  else {
+            GameObject.Find("Timer").GetComponent<TMPro.TextMeshProUGUI>().text = "";
         }
-        GameObject.Find("Timer").GetComponent<TMPro.TextMeshProUGUI>().text = "Time Left: "+ (int)Timer;
+        
+        if (Timer<0) {
+            black.SetActive(true);
+            black.transform.GetChild(0).GetComponent<TMPro.TextMeshPro>().text = "Fired";
+            black.transform.GetChild(1).GetComponent<TMPro.TextMeshPro>().text = lresults[0] + lresults[1] + " happy citizens, " + lresults[2] + " got poisoned and " + lresults[3] + " went hungry";
+            GameObject.Find("Timer").GetComponent<TMPro.TextMeshProUGUI>().text = "";
+            enableButtons(0);
+        }
     }
 
 
@@ -102,11 +117,11 @@ public class main : MonoBehaviour
         listUp = !listUp;
     }
     public void onSafeClick() {
-        if (meallist[mealOn].foodPoison ^ meallist[mealOn].drinkPoison) results[2]++; else results[0]++;
+        if (meallist[mealOn].foodPoison || meallist[mealOn].drinkPoison) results[2]++; else results[0]++;
         nextMeal();
     }
     public void onPoisonClick() {
-        if (meallist[mealOn].foodPoison ^ meallist[mealOn].drinkPoison) results[1]++; else results[3]++;
+        if (meallist[mealOn].foodPoison || meallist[mealOn].drinkPoison) results[1]++; else results[3]++;
         nextMeal();
     }
 
@@ -124,10 +139,6 @@ public class main : MonoBehaviour
             mealOn++;
             enableButtons(0);
         }
-        Debug.Log("Safe Correct: " + results[0] +
-                ", Poison Correct: " + results[1] +
-                ", Safe Wrong: " + results[2] +
-                ", Poison Wrong: " + results[3]);
     }
 
     public void enableButtons(int b)
@@ -139,25 +150,44 @@ public class main : MonoBehaviour
 
 
     public void nextDay() {
-        day++;
-        black.SetActive(true);
-        black.transform.GetChild(0).GetComponent<TMPro.TextMeshPro>().text = "Day " + day;
 
-        foreach (Transform child in meals.transform) {
-            if (child.name != "Canvas2") Destroy(child.gameObject);
+        if (lresults[2] + lresults[3] > 4) {
+            black.SetActive(true);
+            black.transform.GetChild(0).GetComponent<TMPro.TextMeshPro>().text = "Fired";
+            black.transform.GetChild(1).GetComponent<TMPro.TextMeshPro>().text = lresults[0] + lresults[1] + " happy citizens, " + lresults[2] + " got poisoned and " + lresults[3] + " went hungry";
+            enableButtons(0);
+            Timer = 1000000;
+
+        } else {
+            day++;
+            black.SetActive(true);
+            black.transform.GetChild(0).GetComponent<TMPro.TextMeshPro>().text = "Day " + day;
+            if (day != 1) black.transform.GetChild(1).GetComponent<TMPro.TextMeshPro>().text = results[0] + results[1] + " happy citizens, " + results[2] + " got poisoned and " + results[3] + " went hungry";
+            else black.transform.GetChild(1).GetComponent<TMPro.TextMeshPro>().text = "";
+
+            foreach (Transform child in meals.transform) {
+                if (child.name != "Canvas2") Destroy(child.gameObject);
+            }
+
+            Length++;
+
+            randomisePoisons();
+            generateMeals();
+            generateList();
+            enableButtons(0);
+
+            Timer = 63;
+            mealOn = 0;
+            mealsX = 0;
+            meals.transform.position = new Vector3(10 * -4, 0, 0);
+
+            for (int i = 0; i < 4; i++) lresults[i] += results[i];
+            results = new int[4];
+
+            GameObject.Find("Health").GetComponent<TMPro.TextMeshProUGUI>().text = "Health: " + (5- (lresults[2] + lresults[3]));
+
         }
 
-        Length++;
-
-        randomisePoisons();
-        generateMeals();
-        generateList();
-        enableButtons(0);
-
-        Timer = 63;
-        mealOn = 0;
-        mealsX = 0;
-
-}
+    }
 
 }
