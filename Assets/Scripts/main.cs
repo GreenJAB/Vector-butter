@@ -30,8 +30,10 @@ public class main : MonoBehaviour
 
     public int[] results;
     public int[] lresults;
-    public int health = 5;
     public GameObject[] buttons;
+    public AudioSource audioSource;
+    public AudioClip[] sounds;
+    
 
     int day = 0;
     // Start is called before the first frame update
@@ -115,13 +117,14 @@ public class main : MonoBehaviour
 
     public void onListClick() {
         listUp = !listUp;
+        playSound(3);
     }
     public void onSafeClick() {
-        if (meallist[mealOn].foodPoison || meallist[mealOn].drinkPoison) results[2]++; else results[0]++;
+        if (meallist[mealOn].foodPoison || meallist[mealOn].drinkPoison) { results[2]++; playSound(2); } else { results[0]++; playSound(0); }
         nextMeal();
     }
     public void onPoisonClick() {
-        if (meallist[mealOn].foodPoison || meallist[mealOn].drinkPoison) results[1]++; else results[3]++;
+        if (meallist[mealOn].foodPoison || meallist[mealOn].drinkPoison) { results[1]++; playSound(1); } else { results[3]++; playSound(2); }
         nextMeal();
     }
 
@@ -131,7 +134,7 @@ public class main : MonoBehaviour
 
     public void onNextClick()
     {
-        if (mealOn == Length) nextDay();
+        if (mealOn == Length) { nextDay(); playSound(4); }
     }
 
     public void nextMeal() {
@@ -150,7 +153,7 @@ public class main : MonoBehaviour
 
 
     public void nextDay() {
-
+        for (int i = 0; i < 4; i++) lresults[i] += results[i];
         if (lresults[2] + lresults[3] > 4) {
             black.SetActive(true);
             black.transform.GetChild(0).GetComponent<TMPro.TextMeshPro>().text = "Fired";
@@ -181,13 +184,19 @@ public class main : MonoBehaviour
             mealsX = 0;
             meals.transform.position = new Vector3(10 * -4, 0, 0);
 
-            for (int i = 0; i < 4; i++) lresults[i] += results[i];
+            
             results = new int[4];
 
             GameObject.Find("Health").GetComponent<TMPro.TextMeshProUGUI>().text = "Health: " + (5- (lresults[2] + lresults[3]));
 
         }
 
+    }
+
+    public void playSound(int i) {
+        AudioClip clip = sounds[i];
+        audioSource.clip = clip;
+        audioSource.Play();
     }
 
 }
