@@ -15,21 +15,25 @@ public class meal : MonoBehaviour
 
         Main = GameObject.Find("Game Manager").GetComponent<main>();
 
-
         int rn = -1;
+        int mm = 
+        rn = Random.Range(0, Mathf.Min(Main.food.Length,Main.day*2));
+        transform.GetChild(1).GetComponent<SpriteRenderer>().sprite = Main.food[rn];
+        transform.GetChild(1).GetChild(1).GetComponent<SpriteMask>().sprite = Main.food[rn];
+        rn = -1;
         bool correct = false;
         while (!correct)
         {
-            rn = Random.Range(0, Main.sauces.Length);
+            rn = Random.Range(0, Main.numPoisonSauces*2);
             bool p = Main.poisonSauces[rn];
             correct = (p == foodPoison);
         }
-        transform.GetChild(1).GetChild(0).GetComponent<SpriteRenderer>().sprite = Main.sauces[rn];
+        transform.GetChild(1).GetChild(0).GetComponent<SpriteRenderer>().sprite = Main.sauces[rn];  
 
         rn = -1;
         correct = false;
         while (!correct) {
-            rn = Random.Range(0, Main.drinks.Length);
+            rn = Random.Range(0, Main.numPoisonDrinks*2);
             bool p = Main.poisonDrinks[rn];
             correct = (p == drinkPoison);
         }

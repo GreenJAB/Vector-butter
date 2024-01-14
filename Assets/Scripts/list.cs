@@ -6,18 +6,20 @@ public class list : MonoBehaviour
 {
     public main Main;
     public GameObject itemPrefab;
-    public bool showPoison;
+    public bool showPoison = true;
     // Start is called before the first frame update
     void Start()
     {
-        showPoison = true;
+        Main = GameObject.Find("Game Manager").GetComponent<main>();
+        bool rn = Random.Range(0.0f, 1.0f) > 0.5f;
+        if (Main.day > 5) showPoison = rn; else showPoison = true;
         if (showPoison) transform.GetChild(0).GetChild(0).GetComponent<TMPro.TextMeshProUGUI>().text="Poison";
         transform.GetChild(0).GetComponent<Canvas>().worldCamera = GameObject.Find("Camera").GetComponent<Camera>();
-        Main = GameObject.Find("Game Manager").GetComponent<main>();
+        
 
         //https://stackoverflow.com/questions/12627449/pack-squares-into-a-rectangle
         float rectWidth = 1.4f;
-        float rectHeight = 1.2f;
+        float rectHeight = 1.41f;
         float tableRatio = rectWidth / rectHeight;
 
         int numItems = 1;
@@ -37,11 +39,12 @@ public class list : MonoBehaviour
             m.transform.SetParent(transform.GetChild(1), false);
             m.name = "Food " + i;
             m.transform.localPosition = new Vector3((i % columns) * squareSize + squareSize / 2, -(int)(i / columns) * squareSize - squareSize / 2, -0.012f);
-            m.transform.localScale = new Vector3(squareSize*0.8f,squareSize * 0.8f, 1);
+            m.transform.localScale = new Vector3(squareSize*0.9f,squareSize * 0.9f, 1);
 
             j++;
+            Debug.Log(j);
             while (Main.poisonSauces[j] ==!showPoison) j++;
-            m.GetComponent<SpriteRenderer>().sprite = Main.sauces[j];
+            m.transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = Main.sauces[j];
         }
 
         j = -1;
@@ -54,7 +57,7 @@ public class list : MonoBehaviour
 
             j++;
             while (Main.poisonDrinks[j] == !showPoison) j++;
-            m.GetComponent<SpriteRenderer>().color = Main.drinks[j];
+            m.transform.GetChild(0).GetComponent<SpriteRenderer>().color = Main.drinks[j];
         }
     }
 

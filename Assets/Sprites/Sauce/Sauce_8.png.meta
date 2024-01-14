@@ -1,0 +1,2864 @@
+fileFormatVersion: 2
+guid: 104fc16fc24223f49b055e6ebadcb6cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4883633966585751897
+    second: Sauce_8_0
+  - first:
+      213: 7578280439357053744
+    second: Sauce_8_1
+  - first:
+      213: 3727349751947195228
+    second: Sauce_8_2
+  - first:
+      213: 94740713794947532
+    second: Sauce_8_3
+  - first:
+      213: -2937578905207885484
+    second: Sauce_8_4
+  - first:
+      213: 1497257596355709342
+    second: Sauce_8_5
+  - first:
+      213: 3973284273915623639
+    second: Sauce_8_6
+  - first:
+      213: 5154414739295630777
+    second: Sauce_8_7
+  - first:
+      213: -5790971829802689791
+    second: Sauce_8_8
+  - first:
+      213: 416865980047326010
+    second: Sauce_8_9
+  - first:
+      213: -2671245643958487107
+    second: Sauce_8_10
+  - first:
+      213: 6342368683507683974
+    second: Sauce_8_11
+  - first:
+      213: 7486649292448801988
+    second: Sauce_8_12
+  - first:
+      213: 4997505948529192777
+    second: Sauce_8_13
+  - first:
+      213: 1116287161694811697
+    second: Sauce_8_14
+  - first:
+      213: 1164725669518206207
+    second: Sauce_8_15
+  - first:
+      213: -1257437328977433728
+    second: Sauce_8_16
+  - first:
+      213: 9072887370358678804
+    second: Sauce_8_17
+  - first:
+      213: 3924092516882593340
+    second: Sauce_8_18
+  - first:
+      213: 2644368958592686899
+    second: Sauce_8_19
+  - first:
+      213: 3690127907565946278
+    second: Sauce_8_20
+  - first:
+      213: 8953062787617223429
+    second: Sauce_8_21
+  - first:
+      213: -2994206372146567766
+    second: Sauce_8_22
+  - first:
+      213: -445741677194645519
+    second: Sauce_8_23
+  - first:
+      213: -80706520129657130
+    second: Sauce_8_24
+  - first:
+      213: 2397367951958833610
+    second: Sauce_8_25
+  - first:
+      213: -413458706753240011
+    second: Sauce_8_26
+  - first:
+      213: 245680683213140255
+    second: Sauce_8_27
+  - first:
+      213: 702521308912344252
+    second: Sauce_8_28
+  - first:
+      213: 4072366425585778847
+    second: Sauce_8_29
+  - first:
+      213: -5261246299932051530
+    second: Sauce_8_30
+  - first:
+      213: -3944690261825228730
+    second: Sauce_8_31
+  - first:
+      213: 7855886237728481057
+    second: Sauce_8_32
+  - first:
+      213: -3874314143719229039
+    second: Sauce_8_33
+  - first:
+      213: 8596563837916454965
+    second: Sauce_8_34
+  - first:
+      213: -5465989864244053871
+    second: Sauce_8_35
+  - first:
+      213: -2155294381565482991
+    second: Sauce_8_36
+  - first:
+      213: 4092109678025555095
+    second: Sauce_8_37
+  - first:
+      213: -5230439006322812783
+    second: Sauce_8_38
+  - first:
+      213: 6518404975423013012
+    second: Sauce_8_39
+  - first:
+      213: -3717723329857720259
+    second: Sauce_8_40
+  - first:
+      213: 147805338910805228
+    second: Sauce_8_41
+  - first:
+      213: 6682573628035489096
+    second: Sauce_8_42
+  - first:
+      213: 3882848545008392191
+    second: Sauce_8_43
+  - first:
+      213: -8098003371744160143
+    second: Sauce_8_44
+  - first:
+      213: -1705108425891978250
+    second: Sauce_8_45
+  - first:
+      213: -2303931197974541114
+    second: Sauce_8_46
+  - first:
+      213: -2843912324686653497
+    second: Sauce_8_47
+  - first:
+      213: 7297504537139869536
+    second: Sauce_8_48
+  - first:
+      213: 8722049537853033621
+    second: Sauce_8_49
+  - first:
+      213: -9072843401732070600
+    second: Sauce_8_50
+  - first:
+      213: -9110611238997442225
+    second: Sauce_8_51
+  - first:
+      213: 6428594583352891773
+    second: Sauce_8_52
+  - first:
+      213: 8874564239234718060
+    second: Sauce_8_53
+  - first:
+      213: 1976099899386125354
+    second: Sauce_8_54
+  - first:
+      213: -2956307565488886254
+    second: Sauce_8_55
+  - first:
+      213: 3239506322347051163
+    second: Sauce_8_56
+  - first:
+      213: 4965493788988412586
+    second: Sauce_8_57
+  - first:
+      213: 1247647033924010332
+    second: Sauce_8_58
+  - first:
+      213: 3406743066666978861
+    second: Sauce_8_59
+  - first:
+      213: 6424123090337762693
+    second: Sauce_8_60
+  - first:
+      213: 4069341162844775558
+    second: Sauce_8_61
+  - first:
+      213: -5150034408821972451
+    second: Sauce_8_62
+  - first:
+      213: 5694494434473764995
+    second: Sauce_8_63
+  - first:
+      213: 2242563109155002997
+    second: Sauce_8_64
+  - first:
+      213: -718167102569060829
+    second: Sauce_8_65
+  - first:
+      213: 7459711066930599103
+    second: Sauce_8_66
+  - first:
+      213: 1949111285128285645
+    second: Sauce_8_67
+  - first:
+      213: 1880975135933905048
+    second: Sauce_8_68
+  - first:
+      213: 8599492516610743421
+    second: Sauce_8_69
+  - first:
+      213: -7204998583698113207
+    second: Sauce_8_70
+  - first:
+      213: 7724831183882421724
+    second: Sauce_8_71
+  - first:
+      213: -3229034487960202705
+    second: Sauce_8_72
+  - first:
+      213: 8581446929371960337
+    second: Sauce_8_73
+  - first:
+      213: 502360212576119412
+    second: Sauce_8_74
+  - first:
+      213: 3158222016194728272
+    second: Sauce_8_75
+  - first:
+      213: 4917859500445483480
+    second: Sauce_8_76
+  - first:
+      213: -109730464183674460
+    second: Sauce_8_77
+  - first:
+      213: 4309998126760526049
+    second: Sauce_8_78
+  - first:
+      213: -7411673881575702330
+    second: Sauce_8_79
+  - first:
+      213: 5757179398184402106
+    second: Sauce_8_80
+  - first:
+      213: 1039162671158058309
+    second: Sauce_8_81
+  - first:
+      213: 7092732785946779060
+    second: Sauce_8_82
+  - first:
+      213: -6445857551726165078
+    second: Sauce_8_83
+  - first:
+      213: 6510869016398092925
+    second: Sauce_8_84
+  - first:
+      213: 7808369731338658031
+    second: Sauce_8_85
+  - first:
+      213: 791274531426950422
+    second: Sauce_8_86
+  - first:
+      213: -5457135150077448382
+    second: Sauce_8_87
+  - first:
+      213: -7852210581295956373
+    second: Sauce_8_88
+  - first:
+      213: 2362720779152749345
+    second: Sauce_8_89
+  - first:
+      213: -8287988316412784478
+    second: Sauce_8_90
+  - first:
+      213: 7487235520142849816
+    second: Sauce_8_91
+  - first:
+      213: -715057141779980468
+    second: Sauce_8_92
+  - first:
+      213: -8279578674732257868
+    second: Sauce_8_93
+  - first:
+      213: 1342584202510371488
+    second: Sauce_8_94
+  - first:
+      213: -3187938648809334103
+    second: Sauce_8_95
+  - first:
+      213: 2541930057614132504
+    second: Sauce_8_96
+  - first:
+      213: 3062785876173507377
+    second: Sauce_8_97
+  - first:
+      213: 3867250947438563347
+    second: Sauce_8_98
+  - first:
+      213: 4176198043537445276
+    second: Sauce_8_99
+  - first:
+      213: 3835878220546628289
+    second: Sauce_8_100
+  - first:
+      213: 2149860570317805261
+    second: Sauce_8_101
+  - first:
+      213: 4697916322553568298
+    second: Sauce_8_102
+  - first:
+      213: -1075078109576132921
+    second: Sauce_8_103
+  - first:
+      213: -1611542687217865961
+    second: Sauce_8_104
+  - first:
+      213: 77138741621767717
+    second: Sauce_8_105
+  - first:
+      213: -3413800648884641730
+    second: Sauce_8_106
+  - first:
+      213: -815797853906774128
+    second: Sauce_8_107
+  - first:
+      213: 8833716824177036898
+    second: Sauce_8_108
+  - first:
+      213: 8733742955090986149
+    second: Sauce_8_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 900
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sauce_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6df9038c8d93cb0800000000000000
+      internalID: -4883633966585751897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 834
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b1b2c78e57b2960800000000000000
+      internalID: 7578280439357053744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 834
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53f37ed9d43ab330800000000000000
+      internalID: 3727349751947195228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 834
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9c38f5d26905100800000000000000
+      internalID: 94740713794947532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 834
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4513767bc8f9b37d0800000000000000
+      internalID: -2937578905207885484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 834
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e998900e9d357c410800000000000000
+      internalID: 1497257596355709342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_6
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 834
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8f26aeef0f32730800000000000000
+      internalID: 3973284273915623639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_7
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 834
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5f0c865e8288740800000000000000
+      internalID: 5154414739295630777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 834
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b115c7dc552afa0800000000000000
+      internalID: -5790971829802689791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_9
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 887
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b7aa3766109c500800000000000000
+      internalID: 416865980047326010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_10
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 835
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db77b0c5d34ddead0800000000000000
+      internalID: -2671245643958487107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682990fd6be940850800000000000000
+      internalID: 6342368683507683974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 738
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c427529ddbe5e760800000000000000
+      internalID: 7486649292448801988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 738
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94febf8ae25ba5540800000000000000
+      internalID: 4997505948529192777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 738
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136f52c5249dd7f00800000000000000
+      internalID: 1116287161694811697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_15
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 738
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4696053dfe92010800000000000000
+      internalID: 1164725669518206207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 738
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bebf6596fac8ee0800000000000000
+      internalID: -1257437328977433728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 738
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4156b5d3efe59ed70800000000000000
+      internalID: 9072887370358678804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_18
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 738
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c363e867a5d257630800000000000000
+      internalID: 3924092516882593340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_19
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 738
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b9cffae8fa2b420800000000000000
+      internalID: 2644368958592686899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_20
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 793
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a54932e7c7f53330800000000000000
+      internalID: 3690127907565946278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_21
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 739
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50371b38b2baf3c70800000000000000
+      internalID: 8953062787617223429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa52ef32b217276d0800000000000000
+      internalID: -2994206372146567766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 647
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffe9356e4860d9f0800000000000000
+      internalID: -445741677194645519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 647
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d62d98f8d541eef0800000000000000
+      internalID: -80706520129657130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 647
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac979645379254120800000000000000
+      internalID: 2397367951958833610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_26
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 647
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5344eae2f79134af0800000000000000
+      internalID: -413458706753240011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_27
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 647
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11381b9745d86300800000000000000
+      internalID: 245680683213140255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_28
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 647
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcdcd8886bdfb900800000000000000
+      internalID: 702521308912344252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_29
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 647
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90844010b3f38830800000000000000
+      internalID: 4072366425585778847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_30
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 647
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b736b09d5c4cf6b0800000000000000
+      internalID: -5261246299932051530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_31
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 702
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640f6f25b15a149c0800000000000000
+      internalID: -3944690261825228730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_32
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 648
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f9fa339e6b50d60800000000000000
+      internalID: 7855886237728481057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199f75330dbab3ac0800000000000000
+      internalID: -3874314143719229039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 553
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530aaf793412d4770800000000000000
+      internalID: 8596563837916454965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 553
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198f8d3bd27e424b0800000000000000
+      internalID: -5465989864244053871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_36
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 553
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118e460ed2bd612e0800000000000000
+      internalID: -2155294381565482991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_37
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 553
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cb6ac32181ac830800000000000000
+      internalID: 4092109678025555095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 553
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19818c09f6fb967b0800000000000000
+      internalID: -5230439006322812783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_39
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 553
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904a360ac6067a50800000000000000
+      internalID: 6518404975423013012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_40
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 553
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30f5ae245ef76cc0800000000000000
+      internalID: -3717723329857720259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_41
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 553
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec4fa13c2c1d0200800000000000000
+      internalID: 147805338910805228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_42
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 606
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dd2741f454dbc50800000000000000
+      internalID: 6682573628035489096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_43
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 554
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff71ed1fd26a2e530800000000000000
+      internalID: 3882848545008392191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1761645a6dc1e9f80800000000000000
+      internalID: -8098003371744160143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_45
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 457
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3ee23bbec3658e0800000000000000
+      internalID: -1705108425891978250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_46
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 457
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc89cd38cac600e0800000000000000
+      internalID: -2303931197974541114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_47
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 457
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c752b2fec46888d0800000000000000
+      internalID: -2843912324686653497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_48
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 457
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067f50376b1f54560800000000000000
+      internalID: 7297504537139869536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_49
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 457
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c0711e7d1fa0970800000000000000
+      internalID: 8722049537853033621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_50
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 457
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83363010ff8c61280800000000000000
+      internalID: -9072843401732070600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_51
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 457
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4140e4295b909180800000000000000
+      internalID: -9110611238997442225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_52
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 457
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79dfb1a6b4f63950800000000000000
+      internalID: 6428594583352891773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_53
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 513
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6958f7f729c82b70800000000000000
+      internalID: 8874564239234718060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_54
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 458
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c589f73648c6b10800000000000000
+      internalID: 1976099899386125354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e2c30bee519f6d0800000000000000
+      internalID: -2956307565488886254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_56
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 366
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98c02726d905fc20800000000000000
+      internalID: 3239506322347051163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_57
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 366
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa21013fa4af8e440800000000000000
+      internalID: 4965493788988412586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_58
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 366
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c514c16fd58805110800000000000000
+      internalID: 1247647033924010332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_59
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 366
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ec5b9f4ce274f20800000000000000
+      internalID: 3406743066666978861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_60
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 366
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d87f80ae1172950800000000000000
+      internalID: 6424123090337762693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_61
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 366
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684ec313a34397830800000000000000
+      internalID: 4069341162844775558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_62
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 366
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12a021cdf66788b0800000000000000
+      internalID: -5150034408821972451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_63
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 366
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3886f367488e60f40800000000000000
+      internalID: 5694494434473764995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_64
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 422
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a5493244f2f1f10800000000000000
+      internalID: 2242563109155002997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_65
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 367
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326eff143de8806f0800000000000000
+      internalID: -718167102569060829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4d27f21b7368760800000000000000
+      internalID: 7459711066930599103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_67
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 273
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdc6c11362ac0b10800000000000000
+      internalID: 1949111285128285645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_68
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 273
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898bea89be09a1a10800000000000000
+      internalID: 1880975135933905048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_69
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 273
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c963db1e8875770800000000000000
+      internalID: 8599492516610743421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_70
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 273
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d3b7b36f3b20c90800000000000000
+      internalID: -7204998583698113207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_71
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 273
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd50c29a80d143b60800000000000000
+      internalID: 7724831183882421724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_72
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 273
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2295a9cd3a2033d0800000000000000
+      internalID: -3229034487960202705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_73
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 273
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114151c048c671770800000000000000
+      internalID: 8581446929371960337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_74
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 273
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47aa3e3a3fdb8f600800000000000000
+      internalID: 502360212576119412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_75
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 326
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051da15d03244db20800000000000000
+      internalID: 3158222016194728272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_76
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 274
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d14553e82fbf3440800000000000000
+      internalID: 4917859500445483480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a91b4569b82a7ef0800000000000000
+      internalID: -109730464183674460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_78
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 177
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e00920067030db30800000000000000
+      internalID: 4309998126760526049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_79
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 177
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0c3a99fd1742990800000000000000
+      internalID: -7411673881575702330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_80
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 177
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc7af8e82c95ef40800000000000000
+      internalID: 5757179398184402106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_81
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 177
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dd83691f8db6e00800000000000000
+      internalID: 1039162671158058309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_82
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 177
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bddf11d3e27e6260800000000000000
+      internalID: 7092732785946779060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_83
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 177
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3c79455b6bb86a0800000000000000
+      internalID: -6445857551726165078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_84
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 177
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a5185dfd04b5a50800000000000000
+      internalID: 6510869016398092925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_85
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 177
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe06a5f66e6ec5c60800000000000000
+      internalID: 7808369731338658031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_86
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 232
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d54857efb2bfa00800000000000000
+      internalID: 791274531426950422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_87
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 178
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fe5508e7c5444b0800000000000000
+      internalID: -5457135150077448382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e7a404418570390800000000000000
+      internalID: -7852210581295956373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_89
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 86
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12375d8c7021ac020800000000000000
+      internalID: 2362720779152749345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_90
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 86
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0d0a1b9862bfc80800000000000000
+      internalID: -8287988316412784478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_91
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 86
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8173dc7590108e760800000000000000
+      internalID: 7487235520142849816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_92
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 86
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f191e615b9316f0800000000000000
+      internalID: -715057141779980468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_93
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 86
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd2faaff07091d80800000000000000
+      internalID: -8279578674732257868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_94
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 86
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa8ea70831d1a210800000000000000
+      internalID: 1342584202510371488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_95
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 86
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa1bf770ba22c3d0800000000000000
+      internalID: -3187938648809334103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_96
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 86
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8158aff6befb64320800000000000000
+      internalID: 2541930057614132504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_97
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 141
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bc76ce683318a20800000000000000
+      internalID: 3062785876173507377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_98
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 87
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3105e534f3c3ba530800000000000000
+      internalID: 3867250947438563347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c911bb08ef5d4f930800000000000000
+      internalID: 4176198043537445276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_100
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cad6511be6cb3530800000000000000
+      internalID: 3835878220546628289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_101
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6596a5cc6d5dd10800000000000000
+      internalID: 2149860570317805261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_102
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c9056310a523140800000000000000
+      internalID: 4697916322553568298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_103
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c68ae4c72e8411f0800000000000000
+      internalID: -1075078109576132921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_104
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b200cd676a2a9e0800000000000000
+      internalID: -1611542687217865961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_105
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 0
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e39ccd64d021100800000000000000
+      internalID: 77138741621767717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_106
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30ab3d956ebf90d0800000000000000
+      internalID: -3413800648884641730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_107
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0975c559c24bda4f0800000000000000
+      internalID: -815797853906774128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_108
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 45
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ec67706aaa79a70800000000000000
+      internalID: 8833716824177036898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauce_8_109
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4c4cdb1fc743970800000000000000
+      internalID: 8733742955090986149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sauce_8_0: -4883633966585751897
+      Sauce_8_1: 7578280439357053744
+      Sauce_8_10: -2671245643958487107
+      Sauce_8_100: 3835878220546628289
+      Sauce_8_101: 2149860570317805261
+      Sauce_8_102: 4697916322553568298
+      Sauce_8_103: -1075078109576132921
+      Sauce_8_104: -1611542687217865961
+      Sauce_8_105: 77138741621767717
+      Sauce_8_106: -3413800648884641730
+      Sauce_8_107: -815797853906774128
+      Sauce_8_108: 8833716824177036898
+      Sauce_8_109: 8733742955090986149
+      Sauce_8_11: 6342368683507683974
+      Sauce_8_12: 7486649292448801988
+      Sauce_8_13: 4997505948529192777
+      Sauce_8_14: 1116287161694811697
+      Sauce_8_15: 1164725669518206207
+      Sauce_8_16: -1257437328977433728
+      Sauce_8_17: 9072887370358678804
+      Sauce_8_18: 3924092516882593340
+      Sauce_8_19: 2644368958592686899
+      Sauce_8_2: 3727349751947195228
+      Sauce_8_20: 3690127907565946278
+      Sauce_8_21: 8953062787617223429
+      Sauce_8_22: -2994206372146567766
+      Sauce_8_23: -445741677194645519
+      Sauce_8_24: -80706520129657130
+      Sauce_8_25: 2397367951958833610
+      Sauce_8_26: -413458706753240011
+      Sauce_8_27: 245680683213140255
+      Sauce_8_28: 702521308912344252
+      Sauce_8_29: 4072366425585778847
+      Sauce_8_3: 94740713794947532
+      Sauce_8_30: -5261246299932051530
+      Sauce_8_31: -3944690261825228730
+      Sauce_8_32: 7855886237728481057
+      Sauce_8_33: -3874314143719229039
+      Sauce_8_34: 8596563837916454965
+      Sauce_8_35: -5465989864244053871
+      Sauce_8_36: -2155294381565482991
+      Sauce_8_37: 4092109678025555095
+      Sauce_8_38: -5230439006322812783
+      Sauce_8_39: 6518404975423013012
+      Sauce_8_4: -2937578905207885484
+      Sauce_8_40: -3717723329857720259
+      Sauce_8_41: 147805338910805228
+      Sauce_8_42: 6682573628035489096
+      Sauce_8_43: 3882848545008392191
+      Sauce_8_44: -8098003371744160143
+      Sauce_8_45: -1705108425891978250
+      Sauce_8_46: -2303931197974541114
+      Sauce_8_47: -2843912324686653497
+      Sauce_8_48: 7297504537139869536
+      Sauce_8_49: 8722049537853033621
+      Sauce_8_5: 1497257596355709342
+      Sauce_8_50: -9072843401732070600
+      Sauce_8_51: -9110611238997442225
+      Sauce_8_52: 6428594583352891773
+      Sauce_8_53: 8874564239234718060
+      Sauce_8_54: 1976099899386125354
+      Sauce_8_55: -2956307565488886254
+      Sauce_8_56: 3239506322347051163
+      Sauce_8_57: 4965493788988412586
+      Sauce_8_58: 1247647033924010332
+      Sauce_8_59: 3406743066666978861
+      Sauce_8_6: 3973284273915623639
+      Sauce_8_60: 6424123090337762693
+      Sauce_8_61: 4069341162844775558
+      Sauce_8_62: -5150034408821972451
+      Sauce_8_63: 5694494434473764995
+      Sauce_8_64: 2242563109155002997
+      Sauce_8_65: -718167102569060829
+      Sauce_8_66: 7459711066930599103
+      Sauce_8_67: 1949111285128285645
+      Sauce_8_68: 1880975135933905048
+      Sauce_8_69: 8599492516610743421
+      Sauce_8_7: 5154414739295630777
+      Sauce_8_70: -7204998583698113207
+      Sauce_8_71: 7724831183882421724
+      Sauce_8_72: -3229034487960202705
+      Sauce_8_73: 8581446929371960337
+      Sauce_8_74: 502360212576119412
+      Sauce_8_75: 3158222016194728272
+      Sauce_8_76: 4917859500445483480
+      Sauce_8_77: -109730464183674460
+      Sauce_8_78: 4309998126760526049
+      Sauce_8_79: -7411673881575702330
+      Sauce_8_8: -5790971829802689791
+      Sauce_8_80: 5757179398184402106
+      Sauce_8_81: 1039162671158058309
+      Sauce_8_82: 7092732785946779060
+      Sauce_8_83: -6445857551726165078
+      Sauce_8_84: 6510869016398092925
+      Sauce_8_85: 7808369731338658031
+      Sauce_8_86: 791274531426950422
+      Sauce_8_87: -5457135150077448382
+      Sauce_8_88: -7852210581295956373
+      Sauce_8_89: 2362720779152749345
+      Sauce_8_9: 416865980047326010
+      Sauce_8_90: -8287988316412784478
+      Sauce_8_91: 7487235520142849816
+      Sauce_8_92: -715057141779980468
+      Sauce_8_93: -8279578674732257868
+      Sauce_8_94: 1342584202510371488
+      Sauce_8_95: -3187938648809334103
+      Sauce_8_96: 2541930057614132504
+      Sauce_8_97: 3062785876173507377
+      Sauce_8_98: 3867250947438563347
+      Sauce_8_99: 4176198043537445276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

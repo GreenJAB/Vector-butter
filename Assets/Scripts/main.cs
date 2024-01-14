@@ -19,11 +19,12 @@ public class main : MonoBehaviour
     public float mealsX = 0;
 
     int Length;
+    public Sprite[] food;
     public Sprite[] sauces;
     public Color[] drinks;
 
-    public int numPoisonSauces = 2;
-    public int numPoisonDrinks = 2;
+    public int numPoisonSauces = 4;
+    public int numPoisonDrinks = 4;
 
     public bool[] poisonSauces;
     public bool[] poisonDrinks;
@@ -35,7 +36,7 @@ public class main : MonoBehaviour
     public AudioClip[] sounds;
     
 
-    int day = 0;
+    public int day = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -43,6 +44,8 @@ public class main : MonoBehaviour
         results = new int[4];
         lresults = new int[4];
 
+        numPoisonSauces = 1;
+        numPoisonDrinks = 1;
         nextDay();
     }
 
@@ -82,17 +85,17 @@ public class main : MonoBehaviour
 
 
     public void randomisePoisons() {
-        poisonSauces = new bool[sauces.Length];
+        poisonSauces = new bool[numPoisonSauces*2];
         int poisonCount = 0;
-        for (int i = 0; i < poisonSauces.Length; i++) {
-            poisonSauces[i] = Random.Range(0f, 1f) < (2 - poisonCount) / (poisonSauces.Length - i + 0.0f);
+        for (int i = 0; i < numPoisonSauces * 2; i++) {
+            poisonSauces[i] = Random.Range(0f, 1f) < (numPoisonSauces - poisonCount) / (numPoisonSauces * 2 - i + 0.0f);
             if (poisonSauces[i]) poisonCount++;
         }
 
-        poisonDrinks = new bool[drinks.Length];
+        poisonDrinks = new bool[numPoisonDrinks * 2];
         poisonCount = 0;
-        for (int i = 0; i < poisonDrinks.Length; i++) {
-            poisonDrinks[i] = Random.Range(0f, 1f) < (2 - poisonCount) / (poisonDrinks.Length - i + 0.0f);
+        for (int i = 0; i < numPoisonDrinks * 2; i++) {
+            poisonDrinks[i] = Random.Range(0f, 1f) < (numPoisonDrinks - poisonCount) / (numPoisonDrinks * 2 - i + 0.0f);
             if (poisonDrinks[i]) poisonCount++;
         }
     }
@@ -153,6 +156,7 @@ public class main : MonoBehaviour
 
 
     public void nextDay() {
+        
         for (int i = 0; i < 4; i++) lresults[i] += results[i];
         if (lresults[2] + lresults[3] > 4) {
             black.SetActive(true);
@@ -162,7 +166,13 @@ public class main : MonoBehaviour
             Timer = 1000000;
 
         } else {
+            
             day++;
+
+            if (day != 1 && day < 8) { if (day % 2 == 0) numPoisonSauces++; else numPoisonDrinks++; }
+
+
+
             black.SetActive(true);
             black.transform.GetChild(0).GetComponent<TMPro.TextMeshPro>().text = "Day " + day;
             if (day != 1) black.transform.GetChild(1).GetComponent<TMPro.TextMeshPro>().text = results[0] + results[1] + " happy citizens, " + results[2] + " got poisoned and " + results[3] + " went hungry";
